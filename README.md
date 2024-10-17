@@ -13,7 +13,7 @@
 
 ### Project Idea
 * Fraud Detection in Financial Transactions
-  * Develop a data pipeline for detecting fraudulent financial transactions. Collect data from various transaction sources, preprocess and transform the data, and apply machine learning models for fraud detection. Use PostgreSQL as the database and AWS for hosting and processing the data.
+  * Develop a data pipeline for detecting cars. Collect data from various transaction sources, preprocess and transform the data. Use PostgreSQL as the database and AWS for hosting and processing the data.
 
 ### Data Source Selection
 * Still looking into
