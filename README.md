@@ -30,8 +30,9 @@
 * Data Storage
 * Automation
 
-#### Tier 2: Basic Analysis
+#### Tier 2: Basic Analysis & Extras
 * Visuals
+* Parametrization: good design and reusability,  speeds up implementation of new features 
 
 ## POSSIBLE TIERS IF NOT FUTURE
 
